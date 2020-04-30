@@ -6,7 +6,6 @@
 // 思路：1、递归 2、循环
 //==================================================================
 //Fibonacci.java
-package fibonacci;
 
 public class Fibonacci {
 
