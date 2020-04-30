@@ -8,7 +8,6 @@
 // 时得到最大的乘积18。
 //==================================================================
 //CuttingRope.java
-package cuttingRope;
 
 public class CuttingRope {
 
