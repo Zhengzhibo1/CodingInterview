@@ -35,7 +35,7 @@ public class Power {
 
 	private static double powerWithUnsignedExponent(double base, int absExponent) {
 		if(absExponent == 0) {
-			return 1; 
+			return 1.0; 
 		}
 		if(absExponent ==1) {
 			return base;
