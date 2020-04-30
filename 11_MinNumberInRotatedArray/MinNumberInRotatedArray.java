@@ -12,8 +12,6 @@
 //==================================================================
 //MinNumberInRotatedArray.java
 
-package minNumberInRotatedArray;
-
 public class MinNumberInRotatedArray {
 
 // ==================算法实现===================
