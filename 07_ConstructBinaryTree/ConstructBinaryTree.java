@@ -15,7 +15,6 @@
 //===========================创建二叉树节点类=========================
 // TreeNode.java
 // 遍历方法写成静态的方便调用
-package binTree;
 //树节点类
 public class TreeNode {
 
@@ -61,7 +60,6 @@ public class TreeNode {
 
 //=============================算法实现================================
 //ConstructBinaryTree.java
-package constructBinaryTree;
 //重构二叉树(前序遍历和中序遍历)
 
 import binTree.TreeNode;
