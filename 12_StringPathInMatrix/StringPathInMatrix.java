@@ -16,8 +16,6 @@
 //==================================================================
 //StringPathInMatrix.java
 
-package stringPathInMatrix;
-
 public class StringPathInMatrix {
 
 // =============算法实现=================
