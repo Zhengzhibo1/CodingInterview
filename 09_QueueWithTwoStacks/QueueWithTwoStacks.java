@@ -8,7 +8,6 @@
 // 思路：栈1用来添加数据，当需要删除头节点时，如果栈2为空，则将栈1中的数据放入栈2中，然后删除栈顶数据即可。
 //==================================================================
 //QueueWithTwoStacks.java
-package queueWithTwoStacks;
 
 import java.util.Stack;
 //<T> 表示泛型
