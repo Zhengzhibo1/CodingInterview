@@ -7,8 +7,6 @@
 //==================================================================
 //NumberOf1InBinary.java
 
-package numberOf1InBinary;
-
 public class NumberOf1InBinary {
 
 // =================算法实现================
