@@ -12,8 +12,6 @@
 //==================================================================
 // NextNodeInBinaryTrees.java
 
-package nextNodeInBinaryTrees;
-
 public class NextNodeInBinaryTrees {
 
 	// 创建一个内部类
