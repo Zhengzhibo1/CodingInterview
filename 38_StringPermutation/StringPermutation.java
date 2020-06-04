@@ -37,7 +37,7 @@ public class StringPermutation {
 			Set<Character> charSet = new HashSet<Character>();
 			for (int i = index; i < length; ++i) {
 				if (i == index || !charSet.contains(strs[i])) {// 与不同的字符只交换一次
-																// 例如abb，a与第二个b交换过，就不会与第三个b交换。
+									// 例如abb，a与第二个b交换过，就不会与第三个b交换。
 					charSet.add(strs[i]);
 
 					char temp = strs[index];
