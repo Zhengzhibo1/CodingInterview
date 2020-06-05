@@ -116,7 +116,7 @@ public class MoreThanHalfNumber {
 		array[b] = temp;
 	}
 
-//方法二：
+//方法2：
 	public int moreThanHalfNum_Solution_2(int[] array) {
 		if (checkInvalidArray(array)) {
 			return 0;
