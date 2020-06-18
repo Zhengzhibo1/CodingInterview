@@ -37,7 +37,7 @@ public class IntegerIdenticalToIndex {
 		return -1;
 	}
 
-	// ====================测试代码====================
+// ============================测试代码=================================
 	public void test(String testName, int numbers[], int expected) {
 		if (getNumberSameAsIndex(numbers) == expected)
 			System.out.printf("%s passed.\n", testName);
