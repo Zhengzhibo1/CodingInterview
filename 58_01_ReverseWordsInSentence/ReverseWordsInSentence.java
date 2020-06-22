@@ -14,7 +14,7 @@ public class ReverseWordsInSentence {
 
 // ====================算法实现===================
 	public String reverseSentence(String str) {
-		String result = new String("");
+		String result = "";
 		if (str == null || str.length() <= 0) {
 			return result;
 		}
